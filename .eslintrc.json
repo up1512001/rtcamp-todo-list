@@ -1,0 +1,13 @@
+{
+  "extends": [
+    "react-app",
+    "react-app/jest",
+    "prettier",
+    "eslint:recommended",
+    "plugin:prettier/recommended"
+  ],
+  "plugins": ["react", "react-hooks"],
+  "rules": {
+    "semi": "warn"
+  }
+}
